@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local data / logs
+logs/
+*.log
+
+# Google OAuth (DO NOT COMMIT)
+client_secret.json
+token.json
+*.pem
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+.vscode/
